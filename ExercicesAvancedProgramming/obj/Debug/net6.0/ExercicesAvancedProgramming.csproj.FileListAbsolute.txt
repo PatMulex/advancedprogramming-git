@@ -1,0 +1,14 @@
+D:\repos\ExercicesAvancedProgramming\ExercicesAvancedProgramming\bin\Debug\net6.0\ExercicesAvancedProgramming.exe
+D:\repos\ExercicesAvancedProgramming\ExercicesAvancedProgramming\bin\Debug\net6.0\ExercicesAvancedProgramming.deps.json
+D:\repos\ExercicesAvancedProgramming\ExercicesAvancedProgramming\bin\Debug\net6.0\ExercicesAvancedProgramming.runtimeconfig.json
+D:\repos\ExercicesAvancedProgramming\ExercicesAvancedProgramming\bin\Debug\net6.0\ExercicesAvancedProgramming.dll
+D:\repos\ExercicesAvancedProgramming\ExercicesAvancedProgramming\bin\Debug\net6.0\ExercicesAvancedProgramming.pdb
+D:\repos\ExercicesAvancedProgramming\ExercicesAvancedProgramming\obj\Debug\net6.0\ExercicesAvancedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ExercicesAvancedProgramming\ExercicesAvancedProgramming\obj\Debug\net6.0\ExercicesAvancedProgramming.AssemblyInfoInputs.cache
+D:\repos\ExercicesAvancedProgramming\ExercicesAvancedProgramming\obj\Debug\net6.0\ExercicesAvancedProgramming.AssemblyInfo.cs
+D:\repos\ExercicesAvancedProgramming\ExercicesAvancedProgramming\obj\Debug\net6.0\ExercicesAvancedProgramming.csproj.CoreCompileInputs.cache
+D:\repos\ExercicesAvancedProgramming\ExercicesAvancedProgramming\obj\Debug\net6.0\ExercicesAvancedProgramming.dll
+D:\repos\ExercicesAvancedProgramming\ExercicesAvancedProgramming\obj\Debug\net6.0\refint\ExercicesAvancedProgramming.dll
+D:\repos\ExercicesAvancedProgramming\ExercicesAvancedProgramming\obj\Debug\net6.0\ExercicesAvancedProgramming.pdb
+D:\repos\ExercicesAvancedProgramming\ExercicesAvancedProgramming\obj\Debug\net6.0\ExercicesAvancedProgramming.genruntimeconfig.cache
+D:\repos\ExercicesAvancedProgramming\ExercicesAvancedProgramming\obj\Debug\net6.0\ref\ExercicesAvancedProgramming.dll
