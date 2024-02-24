@@ -2,9 +2,9 @@
 
 ## Des exercices pour apprendre la programmation avancée
 
-+1
-+2
-+3
++ 1
++ 2
++ 3
 
 1. Un
 2. Deux 
